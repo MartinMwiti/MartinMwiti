@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Martin, I am a full stack Software Engineer and computer programmer.
-
+---
 <br />
 
 - 🔭 I’m currently working on **Artificial Intelligence(AI)**/**Deep Learning** & **Machine Learning** models.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 
----
+
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -43,7 +43,6 @@
 
 <br />
 
----
 
 ### Connect with me:
   <a href="martinmwiti777@gmail.com"><img align="left" alt="gmail | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
