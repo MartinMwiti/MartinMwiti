@@ -23,7 +23,7 @@
 <br />
 
 
-![Martin's github stats](https://github-readme-stats.vercel.app/api?username=MartinMwiti)
+![Martin's github stats](https://github-readme-stats.vercel.app/api?username=MartinMwiti&show_icons=true&theme=vue-dark)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinMwiti)](https://github.com/MartinMwiti/github-readme-stats)
