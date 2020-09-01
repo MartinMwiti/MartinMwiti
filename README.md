@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Martin, I am a full stack Software Engineer and computer programmer.
 
 
-- 🔭 I’m currently working on building **Artificial Intelligence(AI)**/**Deep Learning** & **Machine Learning** models.
+- 🔭 I’m currently working on **Artificial Intelligence(AI)**/**Deep Learning** & **Machine Learning** models.
 
 My top languages include
 + **Python** *-- Flask and Django, Pandas, Numpy, Scikit-learn, Keras, Tensorflow, PyTorch*
