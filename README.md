@@ -2,7 +2,6 @@
 
 > I'm a software developer/DevOps engineer.
 ---
-<br />
 
 - 🔭 I’m currently working on **Artificial Intelligence(AI)**/**Deep Learning** & **Machine Learning** models.
 - 🌱 I’m currently learning everything 🤣
