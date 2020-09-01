@@ -31,7 +31,7 @@
 
 ---
 
-### Connect with me:
+### You can find me on :
   <a href="martinmwiti777@gmail.com"><img align="left" alt="gmail | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   <a href="https://twitter.com/Martin__Mwiti"><img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   <a href="https://www.linkedin.com/in/martinmwiti" target="_blank" rel="noopener noreferrer"><img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
