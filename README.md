@@ -28,16 +28,17 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 ---
+
+![Martin's github stats](https://github-readme-stats.vercel.app/api?username=MartinMwiti&show_icons=true&theme=vue-dark)
+
+---
+
 ### Connect with me:
   <a href="martinmwiti777@gmail.com"><img align="left" alt="gmail | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   <a href="https://twitter.com/Martin__Mwiti"><img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   <a href="https://www.linkedin.com/in/martinmwiti" target="_blank" rel="noopener noreferrer"><img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <br />
-
----
-
-![Martin's github stats](https://github-readme-stats.vercel.app/api?username=MartinMwiti&show_icons=true&theme=vue-dark)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinMwiti)](https://github.com/MartinMwiti/github-readme-stats)
