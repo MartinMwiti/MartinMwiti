@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on building **Artificial Intelligence(AI)**/**Deep Learning** & **Machine Learning** models.
 
 My top languages include
-+ **Python** *-- Flask and Django*
++ **Python** *-- Flask and Django, Pandas, Numpy, Scikit-learn, Keras*
 + **JavaScript** *-- Vanilla, jQuery, Nodejs, React*
 + **Golang/Go**
 + **C++**
