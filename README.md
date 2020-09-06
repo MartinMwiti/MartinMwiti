@@ -3,8 +3,9 @@
 > I'm a software developer/DevOps engineer.
 
 - 🔭 I’m currently working on **Artificial Intelligence(AI)**/**Deep Learning** & **Machine Learning** models.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning **Blockchain**.
+<!-- - 🌱 I’m currently learning everything 🤣 -->
+- 👯 I’m looking to collaborate with other content creators.
 
 ---
 
