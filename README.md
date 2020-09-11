@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Martin.
 
-> I'm a software developer/DevOps engineer.
+> I'm a software developer(Full Stack + Mobile Developer)/DevOps engineer.
 
 - 🔭 I’m currently working on **Artificial Intelligence(AI)**/**Deep Learning** & **Machine Learning** models.
-- 🌱 I’m currently learning **Blockchain**.
+- 🌱 I’m currently learning **Blockchain** and everything else 🤣.
 <!-- - 🌱 I’m currently learning everything 🤣 -->
 - 👯 I’m looking to collaborate with other content creators.
 
@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
