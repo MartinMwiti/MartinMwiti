@@ -37,9 +37,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](martinmwiti777@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/Martin__Mwiti)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/martinmwiti)
-
-<br />
-
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinMwiti)](https://github.com/MartinMwiti/github-readme-stats)
 **MartinMwiti/MartinMwiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
