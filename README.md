@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on **Artificial Intelligence(AI)**/**Deep Learning** & **Machine Learning** models.
 - 🌱 I’m currently learning **Blockchain** and everything else 🤣.
 - 👯 I’m looking to collaborate with other content creators.
+- 📫 How to reach me: [Twitter](https://twitter.com/Martin__Mwiti), [LinkedIn](https://www.linkedin.com/in/martinmwiti)
 <!-- - 🌱 I’m currently learning everything 🤣 -->
 
 ---
@@ -34,10 +35,12 @@
 ![Martin's github stats](https://github-readme-stats.vercel.app/api?username=MartinMwiti&show_icons=true&theme=vue-dark)
 
 ---
+<!--
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](martinmwiti777@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/Martin__Mwiti)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/martinmwiti)
+-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinMwiti)](https://github.com/MartinMwiti/github-readme-stats)
 **MartinMwiti/MartinMwiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
