@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Martin Mwiti.
 
-> I'm a software developer(Full Stack + Mobile Developer)/DevOps engineer.
+> I'm a software engineer(Full Stack + Mobile)/DevOps engineer.
 
 - 🔭 I’m currently working on **Artificial Intelligence(AI)**/**Deep Learning** & **Machine Learning** models.
 - 🌱 I’m currently learning **Blockchain** and everything else 🤣.
