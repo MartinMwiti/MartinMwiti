@@ -27,6 +27,7 @@
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-FireBase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 <br />
 ![](https://img.shields.io/badge/Tool-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
