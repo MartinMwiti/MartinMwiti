@@ -38,7 +38,7 @@
 
 ---
 
-![Martin's github stats](https://github-readme-stats.vercel.app/api?username=MartinMwiti&show_icons=true&theme=vue-dark)
+<!--![Martin's github stats](https://github-readme-stats.vercel.app/api?username=MartinMwiti&show_icons=true&theme=vue-dark)
 
 ---
 <!--
