@@ -1,10 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Martin Mwiti.
 
-> I'm a Software Engineer | Data Engineer | Data Scientist.
+> I'm a Software Engineer | Data Engineer | ML Engineer.
 
 - 🔭 I’m currently working on **Artificial Intelligence(AI)**/**Deep Learning** & **Machine Learning** models.
 - 🌱 I’m currently learning **Blockchain** and everything else 🤣.
-- 👯 I’m looking to collaborate with other content creators.
 - 📫 How to reach me: [Twitter](https://twitter.com/Martin__Mwiti), [LinkedIn](https://www.linkedin.com/in/martinmwiti)
 <!-- - 🌱 I’m currently learning everything 🤣 -->
 
