@@ -2,7 +2,7 @@
 
 > I'm a Machine Learning Engineer | Software Engineer | Data Engineer.
 
-- 🔭 I’m currently working on **GenAI**/**Financial ML solutions** & **Logistics Optimization** models.
+- 🔭 I’m currently working on **GenAI**, **Financial ML solutions** & **Logistics Optimization** models.
 <!-- - 🌱 I’m currently learning **Blockchain** and everything else 🤣.
 <!-- - 📫 How to reach me: [Twitter](https://twitter.com/Martin__Mwiti), [LinkedIn](https://www.linkedin.com/in/martinmwiti)
  - 🌱 I’m currently learning everything 🤣 -->
